@@ -1,0 +1,45 @@
+# Windows system files
+desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Office / Temp files
+~$*
+*.tmp
+*.doc
+*.docx
+
+# Compiled binaries & editor leftovers
+*.exe
+*.o
+*.obj
+*.out
+*.BAK
+tempCodeRunnerFile.*
+__pycache__/
+*.pyc
+
+# Empty placeholder programs
+3_Projects_Presentations/HITESHPR.C
+3_Projects_Presentations/P1PRINTF.C
+3_Projects_Presentations/mix/P9FORSUMOFNNUMBER.c
+
+# Student submissions (personal data: names & roll numbers)
+3_Projects_Presentations/Submissions/
+3_Projects_Presentations/SARTHAK_.C
+
+# Copyrighted textbooks (listed in README under Reference Books instead)
+6_eBooks_ExtraResources/Let Us C-Yashwant Kanetkar.pdf
+6_eBooks_ExtraResources/Ansi-C-Balaguruswamy-c-language.pdf
+
+# Banner source (published copy lives in assets/)
+6_eBooks_ExtraResources/Banner.png
+
+# Temporary workspace scratch folder
+scratch/
+
+# Mis-named compiled binary (Windows EXE)
+3_Projects_Presentations/mix/WP3Inputoutput.p
